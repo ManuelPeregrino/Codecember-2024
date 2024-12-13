@@ -62,3 +62,11 @@ El reto culmina con una integración total de las tecnologías implementadas en 
 2. Enviar y almacenar estos datos de manera eficiente utilizando el backend Rust.
 3. Visualizar los datos en un frontend web atractivo y dinámico.
 4. Aplicar inteligencia artificial para identificar patrones y predecir tendencias.
+
+## Reglas y restricciones
+
+1. Cada usuario llevara una rama con la siguiente nomenclatura: NombreUsuario_CambioAplicado
+2. Cada usuario debe cuidar que sus modulos sean individuales.
+3. No publicar cadenas de conexion ni llaves de API en el repo.
+4. En caso de usar IA, citar con el prompt y el codigo generado.
+5. Publicar toda la bibliografia y referencias a youtube, github, etc... en el readme de referencias.
